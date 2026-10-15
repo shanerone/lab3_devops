@@ -1,1 +1,1 @@
-# lab3_devops — local
+# lab3_devops — local and remote
